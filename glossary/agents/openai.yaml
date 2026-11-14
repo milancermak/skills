@@ -1,0 +1,4 @@
+interface:
+  display_name: "Glossary"
+  short_description: "Build and maintain project terms in context"
+  default_prompt: "Use $glossary to build or update this project’s glossary from code and project chats."

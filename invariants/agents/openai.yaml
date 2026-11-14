@@ -1,0 +1,4 @@
+interface:
+  display_name: "Invariants"
+  short_description: "Discover and maintain important project promises"
+  default_prompt: "Use $invariants to examine this project’s code and chats, discuss important promises with me, and update their recorded scope and enforcement."
